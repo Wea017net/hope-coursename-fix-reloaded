@@ -2,6 +2,21 @@
 
 公立はこだて未来大学の Moodle システム「HOPE」で、コースコードを読みやすいコース名へ置き換える Chrome 拡張機能です。
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Wea017net/.github/blob/main/hope-coursename-fix-reloaded/resources/before.png?raw=true" height="240" alt="before">
+    </td>
+    <td align="center">
+      <img src="https://github.com/Wea017net/.github/blob/main/hope-coursename-fix-reloaded/resources/after.png?raw=true" height="240" alt="after">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Before</b></td>
+    <td align="center"><b>After</b></td>
+  </tr>
+</table>
+
 ## 機能
 
 - パンくずリストなどに表示される `20XX-10XXXXXXX` 形式のコースコードを正式なコース名へ置換
