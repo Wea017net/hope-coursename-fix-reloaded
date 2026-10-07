@@ -1,0 +1,17 @@
+{
+    "name": "HOPE CourseNameFix Reloaded",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "HOPEのコースコードの表記をコース名に置き換えます",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://hope.fun.ac.jp/*"
+            ],
+            "run_at": "document_end",
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
