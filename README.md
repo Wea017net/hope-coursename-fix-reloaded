@@ -13,7 +13,9 @@
 
 ## インストール
 
-1. このリポジトリを ZIP 形式でダウンロードして展開するか、`git clone` します。
+https://github.com/Wea017net/hope-coursename-fix-reloaded/releases/download/1.0.0/hope-coursename-fix-reloaded.zip
+
+1. 上記のリンクをクリックして最新のリリースをダウンロードして展開するか、`git clone` します。
 2. Chrome で `chrome://extensions/` を開きます。
 3. 右上の「デベロッパー モード」を有効にします。
 4. 「パッケージ化されていない拡張機能を読み込む」を選択します。
